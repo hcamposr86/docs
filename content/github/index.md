@@ -95,9 +95,7 @@ versions:
 {% link_in_list /finding-talent-with-github-jobs %}
 <!-- endif -->
 
-<!-- if currentVersion == "free-pro-team@latest" -->
-{% link_in_list /working-with-github-support %}
-<!-- endif -->
+
 
 <!-- if currentVersion == "free-pro-team@latest" -->
 {% link_in_list /understanding-how-github-uses-and-protects-your-data %}
